@@ -1,3 +1,4 @@
+# CountryInfoEnum - Country infos in one enum
 
 ### Example usage
 
