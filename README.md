@@ -38,3 +38,5 @@ Or country code.
 // Returns Info enum
 Country.GetEnum("TR").GetCountryName();
 ```
+
+Copyright (c) 2015 Ugur Hasar 
